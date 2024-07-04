@@ -60,7 +60,7 @@ Open a Pull Request
 ## License
 This project is open source and available under the MIT License.
 Contact : https://github.com/mansouriyassine
-Project Link: https://github.com/mansouriyassine/PMP-Exam-Prep
+Project Link: https://github.com/mansouriyassine/PMP-EXAM
 
 ## Acknowledgments
 
